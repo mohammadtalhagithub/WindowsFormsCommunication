@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\windowsformscomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|solutionrelative:windowsformscomm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|d:\\c#\\about beehive projects\\projects\\winform\\windowsformscommunication\\windowsformscomm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|solutionrelative:windowsformscomm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDCC115-DB96-4558-B059-1A1E0E6AD54C}|SocketDLL\\SocketDLL.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\socketdll\\socketv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDCC115-DB96-4558-B059-1A1E0E6AD54C}|SocketDLL\\SocketDLL.csproj|solutionrelative:socketdll\\socketv2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\windowsformscomm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|solutionrelative:windowsformscomm\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\udpdll\\udpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|solutionrelative:udpdll\\udpsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\udpdll\\controlsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|solutionrelative:udpdll\\controlsvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\windowsformscomm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{614B329E-85E4-4EEB-9B77-CC6754B011D3}|WindowsFormsComm\\WindowsFormsComm.csproj|solutionrelative:windowsformscomm\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\udpdll\\udpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|solutionrelative:udpdll\\udpreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\udpdll\\multiplelistnerusingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D245438A-80B0-4FF4-8AD4-3726200E3D04}|UdpDLL\\UdpDLL.csproj|solutionrelative:udpdll\\multiplelistnerusingthread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 209,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsComm\\Program.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Program.cs",
+              "RelativeToolTip": "WindowsFormsComm\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAMwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:09:10.995Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsComm\\Form1.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.cs [Design]",
+              "RelativeToolTip": "WindowsFormsComm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:36:14.134Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsFormsComm\\Form1.Designer.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.Designer.cs",
+              "RelativeToolTip": "WindowsFormsComm\\Form1.Designer.cs",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAlwBQBAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:10:28.62Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsFormsComm\\Form1.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\WindowsFormsComm\\Form1.cs",
+              "RelativeToolTip": "WindowsFormsComm\\Form1.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAgwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:15:57.597Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UDPReceiver.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\UDPReceiver.cs",
+              "RelativeDocumentMoniker": "UdpDLL\\UDPReceiver.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\UDPReceiver.cs",
+              "RelativeToolTip": "UdpDLL\\UDPReceiver.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:08:07.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UDPSender.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\UDPSender.cs",
+              "RelativeDocumentMoniker": "UdpDLL\\UDPSender.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\UDPSender.cs",
+              "RelativeToolTip": "UdpDLL\\UDPSender.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T20:08:07.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MultipleListnerUsingThread.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\MultipleListnerUsingThread.cs",
+              "RelativeDocumentMoniker": "UdpDLL\\MultipleListnerUsingThread.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\MultipleListnerUsingThread.cs",
+              "RelativeToolTip": "UdpDLL\\MultipleListnerUsingThread.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T05:08:46.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SocketV2.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\SocketDLL\\SocketV2.cs",
+              "RelativeDocumentMoniker": "SocketDLL\\SocketV2.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\SocketDLL\\SocketV2.cs",
+              "RelativeToolTip": "SocketDLL\\SocketV2.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAvwHYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T04:58:26.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControlsValidation.cs",
+              "DocumentMoniker": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\ControlsValidation.cs",
+              "RelativeDocumentMoniker": "UdpDLL\\ControlsValidation.cs",
+              "ToolTip": "D:\\C#\\About Beehive Projects\\Projects\\WinForm\\WindowsFormsCommunication\\UdpDLL\\ControlsValidation.cs",
+              "RelativeToolTip": "UdpDLL\\ControlsValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-08T10:02:35.334Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

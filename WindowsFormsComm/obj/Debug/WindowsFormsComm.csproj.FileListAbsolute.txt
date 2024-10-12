@@ -1,0 +1,78 @@
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.exe.config
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.exe
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\UdpDLL.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\UdpDLL.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.AssemblyReference.cache
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.SPAForm.resources
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.Properties.Resources.resources
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.GenerateResource.cache
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.CoreCompileInputs.cache
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsF.6930DB9A.Up2Date
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.exe
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\SocketDLL.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\SocketDLL.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Newtonsoft.Json.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Newtonsoft.Json.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\RestSharp.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Buffers.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.CodeDom.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Memory.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Numerics.Vectors.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Encodings.Web.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Json.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.ValueTuple.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\RestSharp.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Buffers.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.CodeDom.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Memory.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Numerics.Vectors.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Encodings.Web.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Json.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.ValueTuple.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.exe.config
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.exe
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\WindowsFormsComm.pdb
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Newtonsoft.Json.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\RestSharp.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\SocketDLL.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Buffers.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.CodeDom.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Memory.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Json.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.ValueTuple.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\UdpDLL.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\SocketDLL.pdb
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\UdpDLL.pdb
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\Newtonsoft.Json.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\RestSharp.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Buffers.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.CodeDom.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Memory.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Numerics.Vectors.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Encodings.Web.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Text.Json.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\bin\Debug\System.ValueTuple.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.AssemblyReference.cache
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.SPAForm.resources
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.Properties.Resources.resources
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.GenerateResource.cache
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.csproj.CoreCompileInputs.cache
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsF.6930DB9A.Up2Date
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.exe
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\WindowsFormsComm\obj\Debug\WindowsFormsComm.pdb

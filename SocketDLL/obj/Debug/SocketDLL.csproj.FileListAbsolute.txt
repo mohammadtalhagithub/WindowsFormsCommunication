@@ -1,0 +1,18 @@
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\SocketDLL.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\SocketDLL.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.AssemblyReference.cache
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.CoreCompileInputs.cache
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.pdb
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\Newtonsoft.Json.dll
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\Newtonsoft.Json.xml
+D:\My Stuff\Programs\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.Up2Date
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\SocketDLL.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\SocketDLL.pdb
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\Newtonsoft.Json.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\bin\Debug\Newtonsoft.Json.xml
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.AssemblyReference.cache
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.CoreCompileInputs.cache
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.csproj.Up2Date
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.dll
+D:\C#\About Beehive Projects\Projects\WinForm\WindowsFormsCommunication\SocketDLL\obj\Debug\SocketDLL.pdb
