@@ -18,6 +18,7 @@ namespace WindowsFormsComm
         [STAThread]
         static void Main()
         {
+            // committed from Visual Studio.
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new SPAForm());
