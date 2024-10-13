@@ -28,6 +28,9 @@ namespace WindowsFormsComm
 
         #endregion
 
+        /// <summary>
+        /// The constructor of the Main form of the application. This class should be inhereted from System.Windows.Forms.
+        /// </summary>
         public SPAForm()
         {
             InitializeComponent();

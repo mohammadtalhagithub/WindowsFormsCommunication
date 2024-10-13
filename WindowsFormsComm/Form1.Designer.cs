@@ -271,6 +271,7 @@ namespace WindowsFormsComm
         private System.Windows.Forms.Button btnListen;
         private System.Windows.Forms.CheckBox chckBxException;
 
+
         private System.Windows.Forms.GroupBox grpBxSender;
         private System.Windows.Forms.GroupBox grpBxReceiver;
 
