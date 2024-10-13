@@ -11,6 +11,9 @@ using System.Windows.Forms;
 
 namespace UdpDLL
 {
+    /// <summary>
+    /// 
+    /// </summary>
     public class UdpMulticast
     {
 
