@@ -105,6 +105,10 @@ namespace WindowsFormsComm
                     int iServerPort = Convert.ToInt32(txtBxReceiverPort.Text); // port no. to send data to.
 
                     _socketClient = SocketV2.CreateClient(sServerIP, iServerPort); // after connection, socket client is returned.
+                    if (_socketClient == null)
+                    {
+                        MessageBox.Show("Error in creating Socket connection...!");
+                    } 
                 }
             }
             catch (Exception ex)
@@ -276,7 +280,11 @@ namespace WindowsFormsComm
 
                     // this is for single client with server
                     _socketServer = SocketV2.CreateServer(iServerPort);
-
+                    if (_socketServer == null)
+                    {
+                        MessageBox.Show("Error creating Socket server...");
+                        return;
+                    }
                     MessageBox.Show($"Server started on : {sServerIP}:{iServerPort}");
                     await SocketV2.ConnectToClient(sMessage, _socketServer, this, lstBxMsgReceive, btnListen);
                 }
@@ -335,6 +343,11 @@ namespace WindowsFormsComm
                             lstBxException.Items.Add(ex.Message);
                         }));
                     }
+                    else
+                    {
+                        MessageBox.Show("Endpoint already in use.");
+                        lstBxException.Items.Add(ex.Message);
+                    }
                     return;
                 }
 
@@ -351,6 +364,14 @@ namespace WindowsFormsComm
                         btnListen.Text = "Stop Listening";
                         ControlsValidation.DisableIfListening(txtBxReceiverPort);
                     }));
+                }
+                else
+                {
+                    // Loopback address is the localhost/ 127.0.0.1
+                    MessageBox.Show($"Listening on {IPAddress.Loopback}:{iPort}");
+                    btnListen.ForeColor = Color.Red;
+                    btnListen.Text = "Stop Listening";
+                    ControlsValidation.DisableIfListening(txtBxReceiverPort);
                 }
                 string sMessage = string.Empty;
                 while (_udpReceiver != null)

@@ -176,6 +176,10 @@ namespace SocketDLL
                                     lstBox.Items.Add(message);
                                 }));
                             }
+                            else
+                            {
+                                lstBox.Items.Add(message);
+                            }
                             Thread.Sleep(1);
                         }
                     }
@@ -200,6 +204,10 @@ namespace SocketDLL
                                 {
                                     lstBox.Items.Add(response);
                                 }));
+                            }
+                            else
+                            {
+                                lstBox.Items.Add(response);
                             }
                             Thread.Sleep(10);
                         }

@@ -21,20 +21,27 @@ namespace WindowsFormsComm
         [STAThread]
         static void Main()
         {
-            TestFunction();
+            if (false)
+            {
+                TestFunction();
+            }
 
-
-            // Visual styles give your application the current Windows theme appearance, such as modern buttons, controls, etc., instead of the older Windows Classic look. This makes the app more consistent with the operating system’s appearance.
+            // Visual styles give your application the current Windows theme appearance, such as modern buttons, controls, etc.,
+            // instead of the older Windows Classic look. This makes the app more consistent with the operating system’s appearance.
             Application.EnableVisualStyles();
 
             // This specifies which text rendering engine the application should use for its controls.
-            // Setting this to false makes the application use GDI+ for rendering text, which is the standard rendering engine for modern Windows Forms controls.
-            // If set to true, it uses GDI for rendering text, which was used in older applications. Modern apps typically use false to ensure better text rendering and Unicode support.
+            // Setting this to false makes the application use GDI+ for rendering text, which is the standard rendering engine for
+            // modern Windows Forms controls.
+            // If set to true, it uses GDI for rendering text, which was used in older applications. Modern apps typically
+            // use false to ensure better text rendering and Unicode support.
             Application.SetCompatibleTextRenderingDefault(false);
 
             // This starts the application and opens the main form, here, it is SPAForm.
-            // Initiates the Windows Forms message loop, which listens for user input and other events like mouse clicks, keyboard input, and system messages.
-            // The argument new SPAForm() creates an instance of your SPAForm class (which is presumably your main form) and shows it as the starting window of the application.
+            // Initiates the Windows Forms message loop, which listens for user input and other events like mouse clicks,
+            // keyboard input, and system messages.
+            // The argument new SPAForm() creates an instance of your SPAForm class (which is presumably your main form) and
+            // shows it as the starting window of the application.
             Application.Run(new SPAForm());
         }
 
