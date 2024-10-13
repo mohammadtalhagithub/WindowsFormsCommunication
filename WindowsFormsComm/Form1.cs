@@ -201,8 +201,7 @@ namespace WindowsFormsComm
                 MessageBox.Show(ex.Message);
             }
         }
-
-
+        
         /// <summary>
         /// Used for starting and stopping the server for both Udp and socket
         /// </summary>
